@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+## Introduction
+안녕하세요.
+
+## Career
+-컴퓨터공학과 학생 
+## Links
+-Email: jung040716@gmail.com
+## Courses
+-
 <!--
 **wjd-tnals/wjd-tnals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
