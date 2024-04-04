@@ -5,7 +5,7 @@
 안녕하세요.
 
 ## Career
--컴퓨터공학과 학생 
+-영남대 컴퓨터공학과 학생 
 ## Links
 -Email: jung040716@gmail.com
 ## Courses
